@@ -46,10 +46,10 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved © Kominfotik OSIS 2021"
+copyright = "All rights reserved © Kominfotik OSIS 2021"
 footerLogo = "images/my-image/SMAIA-LOGO.png"
 formspreeURL = "https://formspree.io/f/meqvzkwn"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "G-ZSR7Q8WH5L"
 logo = "images/my-image/SMAIA-LOGO.png"
 [params.address]
 address = "Jl. Raya Centex No.24, RT.7/RW.10 Ciracas Kota Jakarta-Timur Daerah Khusus Ibukota Jakarta 13740"
